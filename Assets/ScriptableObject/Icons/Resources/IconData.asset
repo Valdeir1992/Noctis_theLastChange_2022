@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daebe4acd8b32fd428787d02fc21b670, type: 3}
+  m_Name: IconData
+  m_EditorClassIdentifier: 
+  _distanceIcon: 5
+  _distanceButton: 2
+  _totalTime: 0.3
+  _sizeIcon: {x: 60, y: 60}
+  _sizebutton: {x: 30, y: 30}
+  _buttonPosition: {x: 0, y: -40}

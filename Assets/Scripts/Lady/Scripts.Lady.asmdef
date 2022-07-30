@@ -1,0 +1,16 @@
+{
+    "name": "Scripts.Lady",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d113e3cc54303834d8dfcb4bee403ed4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
